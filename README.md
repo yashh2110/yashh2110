@@ -1,7 +1,11 @@
 ### Hi, Yashwanth here..👋
 - 🔭 I’m currently working on a NGO website
 - 🌱 I’m currently learning app development 
+- ⚡ i am a full stack web developer 
+- 😄 i have very good experiance with css js react php mysqli jquery ajax bootstrap and many other libaries.
 - 📫 How to reach me: muddana.yashwanth@gmail.com
+- 📖 student at VIT vellore
+
 <!--
 **yashh2110/yashh2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
