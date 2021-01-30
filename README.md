@@ -1,4 +1,4 @@
-### Hi there i am Yashwanth 👋
+### Hi, Yashwanth here..👋
 - 🔭 I’m currently working on a NGO website
 - 🌱 I’m currently learning app development 
 - 📫 How to reach me: muddana.yashwanth@gmail.com
