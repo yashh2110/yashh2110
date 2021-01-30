@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there i am Yashwanth 👋
+- 🔭 I’m currently working on a NGO website
+- 🌱 I’m currently learning app development 
+- 📫 How to reach me: muddana.yashwanth@gmail.com
 <!--
 **yashh2110/yashh2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
