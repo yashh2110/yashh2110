@@ -1,5 +1,5 @@
 ### Hi, Yashwanth here..👋
-- 🔭 I’m currently working on a NGO website
+- 🔭 I’m a freelancer, i build websites.
 - 🌱 I’m currently learning app development 
 - ⚡ i am a full stack web developer 
 - 😄 i have very good experiance with css js react php mysqli jquery ajax bootstrap and many other libaries.
