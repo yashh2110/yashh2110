@@ -4,7 +4,9 @@
 - ⚡ i am a full stack web developer 
 - 😄 i have very good experiance with css js react php mysqli jquery ajax bootstrap and many other libaries.
 - 📫 How to reach me: muddana.yashwanth@gmail.com
+- 🖇 linked in : www.linkedin.com/in/yashwanth2110
 - 📖 student at VIT vellore
+- 🏢 full stack developer in ideal business solutions
 
 <!--
 **yashh2110/yashh2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
